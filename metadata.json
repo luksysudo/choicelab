@@ -1,0 +1,6 @@
+{
+  "name": "CHOICE LAB: Misi Menemukan Semua Kemungkinan",
+  "description": "Media pembelajaran matematika interaktif materi Kaidah Pencacahan (Aturan Penjumlahan & Perkalian) untuk Kelas XII SMA bergaya game petualangan 3D.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
